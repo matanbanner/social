@@ -1,0 +1,14 @@
+{
+  "name": "social",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "true3.0.1",
+    "babel-preset-react": "true6.24.1",
+    "prop-types": "true15.5.10",
+    "react": "true15.6.1",
+    "react-dom": "true15.6.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "true2.7.1"
+  }
+}
